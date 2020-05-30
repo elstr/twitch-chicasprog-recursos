@@ -18,3 +18,9 @@
 
 ## Cómo saber cuánto dinero pedir
 * https://www.glassdoor.com
+
+## Dónde practicar para entrevistas
+* https://www.codewars.com/
+* https://github.com/lndgalante/codewars-katas
+* https://www.hackerrank.com/
+

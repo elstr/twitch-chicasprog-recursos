@@ -20,9 +20,12 @@
 * https://www.glassdoor.com
 
 ## Dónde practicar para entrevistas
+### Algoritmos & estructuras de datos
 * https://www.codewars.com/
 * https://github.com/lndgalante/codewars-katas
 * https://www.hackerrank.com/
 * https://github.com/elstr/Algorithm-Training/
+### Diseño de sistemas
+* Gaurav Sen la tiene atadisima https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
 
 

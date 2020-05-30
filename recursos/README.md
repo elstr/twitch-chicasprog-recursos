@@ -23,8 +23,8 @@ Cortita y al pie para meterte un poco en el mundo de la programacion funcional c
 * https://joblist.app/
 
 ## Trabajo remoto por sesiones
-* https://www.codementor.io/   Estoy en codementor y es una masa.
-* https://www.workana.com/     No lo recomiendo pero es una opción.
+* https://www.codementor.io/   Estoy en codementor y me pareció excelente.
+* https://www.workana.com/     No lo recomiendo, pero es una opción.
 
 ## Cómo saber cuánto dinero pedir
 * https://www.glassdoor.com
@@ -39,3 +39,10 @@ Cortita y al pie para meterte un poco en el mundo de la programacion funcional c
 * Gaurav Sen la tiene atadisima https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
 
 
+## Podcast:
+Horacio Bellotti - Coach https://open.spotify.com/show/3xE9w7jw4xgmE0L6CJtZvD  
+Este podcast es una masa, 10/10 lele points.
+Trata temas como por ejemplo: 
+* El secreto para que tu CV logre que te llamen para una entrevista. 
+* Jefes disfuncionales  
+* Cómo hacer networking

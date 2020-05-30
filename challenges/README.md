@@ -1,0 +1,6 @@
+- Transaction admin: https://github.com/elstr/transactions
+- Visualización de datos: https://github.com/elstr/PigDataViz
+- Admin de permisos de usuarios: https://github.com/elstr/user-management
+- Validador de inputs y controles: https://github.com/elstr/nod-challenge
+- Reddit reader: https://github.com/elstr/reddit-react-redux
+- Minimarket: https://github.com/puribey/PurisReactMinimarket

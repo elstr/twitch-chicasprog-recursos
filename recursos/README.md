@@ -23,4 +23,6 @@
 * https://www.codewars.com/
 * https://github.com/lndgalante/codewars-katas
 * https://www.hackerrank.com/
+* https://github.com/elstr/Algorithm-Training/
+
 

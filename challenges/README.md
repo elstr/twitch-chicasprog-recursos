@@ -3,4 +3,6 @@
 - Admin de permisos de usuarios: https://github.com/elstr/user-management
 - Validador de inputs y controles: https://github.com/elstr/nod-challenge
 - Reddit reader: https://github.com/elstr/reddit-react-redux
-- Minimarket: https://github.com/puribey/PurisReactMinimarket
+- Minimarket by @pribey: https://github.com/puribey/PurisReactMinimarket
+- Corpo Chart by @lndgalante: https://github.com/lndgalante/glide-challenge
+- Gif searcher by @lndgalante: https://github.com/lndgalante/workast-assessment
